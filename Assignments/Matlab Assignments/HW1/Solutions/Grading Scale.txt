@@ -1,0 +1,18 @@
+A.1 1-3 5 points in total
+A.1-4 5 points
+A.1-5 10 points
+
+A.2-1 5 points
+A.2-2 5 points
+A.2-3 5 points
+A.2-4 5 points
+
+B.1 6 points
+B.2 7 points
+B.3 7 points
+B.4 7 points
+B.5 7 points
+B.6 5 points
+B.7 7 points
+B.8 7 points
+B.9 7 points
